@@ -24,3 +24,7 @@ Para publicar novedades:
 >git push
 
 Se introducen las credenciales: cuenta de correo y token que se ha descargado.
+
+Para generar el token, se selecciona generate new token (classic).
+
+El scope que se debe seleccionar es: repo (todos), workflow y write packages (todos).
